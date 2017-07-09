@@ -7,7 +7,7 @@ int main ()
     
    char data[100];
  
-   // only one
+   // only 
    ofstream outfile;
    outfile.open("afile.dat");
  
